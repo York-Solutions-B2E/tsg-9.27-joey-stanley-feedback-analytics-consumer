@@ -1,0 +1,5 @@
+services:
+  feedback-analytics-consumer:
+    build: .
+    ports:
+      - "8081:8081"
