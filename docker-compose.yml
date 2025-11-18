@@ -13,11 +13,7 @@ services:
 
 volumes:
   maven-cache:
-      
-networks:
-  stanjgcnet:
-    external: true
-    driver: bridge
+
 
 
 
