@@ -1,3 +1,4 @@
 # Analytics Consumer
+This is a service that listens for feedback-submitted events and logs their details for analytics.
 
 Please see the readme at [the root project repo](https://github.com/York-Solutions-B2E/tsg-9.27-joey-stanley-feedback-api).
